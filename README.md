@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm skidsploiter! 👋
 
-<!--
-**skidsploiter/skidsploiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **developer** and **student** who loves exploring the world of programming. My main language is **Python and C#**, and I'm always on the lookout for new things to learn and build.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🛠️ Developer & lifelong student of code
+- 🐍 Python enthusiast
+- 🌱 Continuously learning and growing
+- 💡 Interested in all things programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- **Python** (main focus)
+- **C#** (Roblox Exploit UI Development)
+- **C++** (Module/Injector Creation)
+- [Always eager to add more!]
+
+## 🎯 What I'm Up To
+- Building, tinkering, and learning new technologies
+- Connecting with other developers and students
+
+## 📝 Fun Fact
+I love programming and see it as an endless adventure!
+Thanks for visiting my profile! 🚀
